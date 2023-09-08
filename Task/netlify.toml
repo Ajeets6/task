@@ -1,5 +1,5 @@
 [build]
-  functions = "functions"
+  functions = "Task/functions"
 
 [dev]
   functionsPort = 3000
